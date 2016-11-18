@@ -10,7 +10,7 @@
 
 - [ ] Are there any instances of Hungarian notation?
 
-- [ ] Is the Boy Scout rule applied (is the code better than before it was change)?
+- [ ] Is the Boy Scout rule applied (is the code better now than before it was change)?
 
 **Code**
 
